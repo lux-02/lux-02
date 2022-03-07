@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/devxb/CommitCombo">
-    <img src="http://commitcombo.com/theme?user=Lux-02" width = "300" height = "auto"/>
+    <img src="http://commitcombo.com/theme?user=Lux-02&theme=DeepOcean" width = "300" height = "auto"/>
   </a>
 </p>
 
