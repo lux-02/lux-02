@@ -30,7 +30,10 @@
 - 🎖 Microsoft Certified: Power Platform Fundamentals / Microsoft / 21.05.
 - 🎖 Microsoft Certified: Azure Data Fundamentals / Microsoft / 21.05.
 - 🎖 SMAT 서비스경영 1급(컨설턴트) / KPC 한국생산성본부 / 21.12.
-
+- 🎖 정보처리산업기사 / 한국산업인력공단 / 22.7.
+- 🎖 유통관리사 2급 / 대한상공회의소 / 22.9.
+- 🎖 멀티미디어콘텐츠제작전문가 / 한국산업인력공단 / 22.11.
+- 🎖 정보기기운용기능사 / 한국산업인력공단 / 22.12.
 
 <!---
 l220x/l220x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
