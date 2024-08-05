@@ -1,35 +1,7 @@
 <div style="background-color: black; color: white; padding: 20px;">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000&height=600&section=header&text=L%20U%20X&fontSize=200&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Les%20yeux%20éclairés,%20le%20monde%20de%20Lux.&descSize=40&descAlignY=64" />
 
-# 🛠️ Tools
-
-<img src="https://img.shields.io/badge/Python	-222?style=for-the-badge&logo=Python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-222?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React	-222?style=for-the-badge&logo=React&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Next.js	-222?style=for-the-badge&logo=Next.js&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Figma-222?style=for-the-badge&logo=Figma&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Adobe Photoshop-222?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Adobe Illustrator-222?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Adobe Premiere Pro	-222?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Adobe After Effects	-222?style=for-the-badge&logo=Adobe After Effects&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Blender-222?style=for-the-badge&logo=Blender&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Rhinoceros-222?style=for-the-badge&logo=Rhinoceros&logoColor=white"/>
-
-</br>
-</br>
-</br>
-
-# 🍀 PROJECT
+# 🛠️ PROJECT
 
 <table>
   <thead>
