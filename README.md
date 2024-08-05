@@ -62,7 +62,7 @@
     </tr>
     <tr>
       <td>230811 - 240223</td>
-      <td>Goorm x S2W 구름톤 트레이닝 정보보호 2회차 수료</td>
+      <td>Goorm x S2W 구름톤 트레이닝 정보보호 2회차</td>
       <td>Goorm</td>
     </tr>
     <tr>
@@ -78,7 +78,7 @@
     </tr>
     <tr>
       <td>230905 - 231220</td>
-      <td>NAVER AI Rush 2023 대학생 앰배서더 수료</td>
+      <td>NAVER AI Rush 2023 대학생 앰배서더</td>
       <td>네이버클라우드</td>
     </tr>
      <td colspan="3"  style="color:#666">
