@@ -15,12 +15,12 @@
     <tr  style="color:#22cc88">
       <td>230401 - 241231</td>
       <td>NAVER Privacy Enhancement Reward</td>
-      <td>네이버</td>
+      <td>NAVER</td>
     </tr>
     <tr>
     <td colspan="3" style="color:#666">
-        <li>네이버 개인정보 취약점 랭킹 24Q1 - 8위</li>
-        <li>네이버 개인정보 취약점 랭킹 24Q2 - 7위</li>
+        <li>네이버 개인정보 취약점 분석 랭킹 24Q1 - 8위</li>
+        <li>네이버 개인정보 취약점 분석 랭킹 24Q2 - 7위</li>
     </td>
     </tr>
     <tr style="color:#22cc88">
