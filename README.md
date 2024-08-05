@@ -152,11 +152,6 @@
       <td>한국표준협회</td>
     </tr>
     <tr  style="color:#fff">
-      <td>221111</td>
-      <td>멀티미디어콘텐츠제작전문가</td>
-      <td>한국산업인력공단</td>
-    </tr>
-    <tr  style="color:#fff">
       <td>210526</td>
       <td>Azure Data Fundamentals</td>
       <td>Microsoft</td>
@@ -170,11 +165,6 @@
       <td>210518</td>
       <td>Azure AI Fundamentals</td>
       <td>Microsoft</td>
-    </tr>
-    <tr  style="color:#fff">
-      <td>221111</td>
-      <td>멀티미디어콘텐츠제작전문가</td>
-      <td>한국산업인력공단</td>
     </tr>
     <tr  style="color:#fff">
       <td>201107</td>
@@ -206,6 +196,7 @@
       <td>웹디자인기능사</td>
       <td>한국산업인력공단</td>
     </tr>
+
   </tbody>
 </table>
 </br>
