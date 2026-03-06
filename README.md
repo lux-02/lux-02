@@ -1,189 +1,129 @@
-<div style="background-color: black; color: white; padding: 20px;">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000&height=600&section=header&text=L%20U%20X&fontSize=200&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Les%20yeux%20éclairés,%20le%20monde%20de%20Lux.&descSize=40&descAlignY=64" />
+<div align="center">
 
-# 🛠️ PROJECT
+# From Prompt to Product: Solving real-world problems with AI & Security
 
-<table>
-  <thead>
-    <tr>
-      <th>PERIOD</th>
-      <th>TITLE</th>
-      <th>ORGANIZATION</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr  style="color:#22cc88">
-      <td>230401 - 241231</td>
-      <td>NAVER Privacy Enhancement Reward</td>
-      <td>NAVER</td>
-    </tr>
-    <tr>
-    <td colspan="3" style="color:#666">
-        <li>네이버 개인정보 취약점 분석 랭킹 1Q24 - 8위</li>
-        <li>네이버 개인정보 취약점 분석 랭킹 2Q24 - 7위</li>
-    </td>
-    </tr>
-    <tr style="color:#22cc88">
-      <td>240401 - 241031</td>
-      <td>2024 ICT 멘토링 #24_HF048 프로젝트 수행</td>
-      <td>정보통신기획평가원</td>
-    </tr>
-    <tr>
-    <td colspan="3" style="color:#666">
-        <li>GPT 기반 웹페이지 자동 생성 서비스, 01:11 개발</li>
-    </td>
-    </tr>
-    <tr>
-      <td>230901 - 240322</td>
-      <td>차세대 보안리더 양성 프로그램 White-Hat School 1기</td>
-      <td>한국정보기술연구원</td>
-    </tr>
-    <tr>
-    <td colspan="3" style="color:#666">
-        <li>파이썬 오픈소스 자동 버그 탐지를 위한 정적분석기 개발</li>
-    </td>
-    </tr>
-    <tr>
-      <td>230811 - 240223</td>
-      <td>Goorm x S2W 구름톤 트레이닝 정보보호 2회차</td>
-      <td>Goorm</td>
-    </tr>
-    <tr>
-    <td colspan="3"  style="color:#666">
-        <li>서비스 포트 스캐너 구현</li>
-        <li>네트워크 패킷 분석 시스템 개발</li>
-        <li>포렌식 아티팩트 수집 시스템 개발</li>
-        <li>CAPEv2를 이용한 샌드박스 구축 및 운영</li>
-        <li>모바일용 샌드박스 구축</li>
-        <li>OSINT 수집 시스템 개발</li>
-        <li>다크웹 유출 정보 알림 시스템 개발</li>
-    </td>
-    </tr>
-    <tr>
-      <td>230905 - 231220</td>
-      <td>NAVER AI Rush 2023 대학생 앰배서더</td>
-      <td>네이버클라우드</td>
-    </tr>
-     <td colspan="3"  style="color:#666">
-        <li>HyperClova X를 활용한 감정 분석 기반 나만의 AI 미디어 아트 서비스 개발</li>
-    </td>
-    <tr>
-      <td>230417 - 231115</td>
-      <td>2023 ICT 멘토링 #23_HF367 프로젝트 수행</td>
-      <td>정보통신기획평가원</td>
-    </tr>
-    <td colspan="3"  style="color:#666">
-        <li>감정을 기록하는 기억 보관함 서비스, MetaLog 개발</li>
-    </td>
+### AI Product Engineer | OH Yoonseok
 
-  </tbody>
-</table>
+<p>
+  <a href="https://www.linkedin.com/in/lux00/"><img src="https://img.shields.io/badge/LinkedIn-lux00-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/lux-02"><img src="https://img.shields.io/badge/GitHub-lux--02-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/AI%20Product-Engineer-0f172a?style=for-the-badge" />
+</p>
 
-</br>
-</br>
-</br>
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+</p>
 
-# 📜 Certificate
+</div>
+
+## About
+
+안녕하세요, **AI와 보안을 결합해 실사용 문제를 제품으로 해결하는 소프트웨어 엔지니어 오윤석**입니다.
+기획부터 FE/BE 개발, 배포, 운영 자동화까지 end-to-end delivery를 수행합니다.
+
+- 2026.02 데이콘 x 데이터유니버스 피싱·스캠 예방 대회 **대상(1위)**
+- 2025 AI TOP 100 Finalist (3,000명 중 100인)
+- NAVER Privacy Enhancement Reward 명예의 전당 2년 연속 (2024, 2025)
+
+## Featured Projects
 
 <table>
-  <thead>
-    <tr>
-      <th>DATE</th>
-      <th>NAME</th>
-      <th>ORGANIZATION</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr  style="color:#444">
-      <td>231020</td>
-      <td>디지털포렌식전문가 2급 [필기]</td>
-      <td>한국포렌식학회</td>
-    </tr>
-    <tr  style="color:#fff">
-      <td>221202</td>
-      <td>정보기기운용기능사</td>
-      <td>한국산업인력공단</td>
-    </tr>
-    <tr  style="color:#fff">
-      <td>221111</td>
-      <td>멀티미디어콘텐츠제작전문가</td>
-      <td>한국산업인력공단</td>
-    </tr>
-    <tr  style="color:#fff">
-      <td>220920</td>
-      <td>유통관리사 2급</td>
-      <td>대한상공회의소</td>
-    </tr>
-    <tr  style="color:#444">
-      <td>220810</td>
-      <td>컨벤션기획사 2급 [필기]</td>
-      <td>한국산업인력공단</td>
-    </tr>
-    <tr  style="color:#fff">
-      <td>220713</td>
-      <td>정보처리산업기사</td>
-      <td>한국산업인력공단</td>
-    </tr>
-    <tr  style="color:#fff">
-      <td>211230</td>
-      <td>SMAT 서비스경영 1급</td>
-      <td>한국생산성본부</td>
-    </tr>
-    <tr  style="color:#fff">
-      <td>211119</td>
-      <td>인공지능 자격</td>
-      <td>한국표준협회</td>
-    </tr>
-    <tr  style="color:#fff">
-      <td>210526</td>
-      <td>Azure Data Fundamentals</td>
-      <td>Microsoft</td>
-    </tr>
-    <tr  style="color:#fff">
-      <td>210520</td>
-      <td>Power Platform Fundamentals</td>
-      <td>Microsoft</td>
-    </tr>
-    <tr  style="color:#fff">
-      <td>210518</td>
-      <td>Azure AI Fundamentals</td>
-      <td>Microsoft</td>
-    </tr>
-    <tr  style="color:#fff">
-      <td>201107</td>
-      <td>Azure Fundamentals</td>
-      <td>Microsoft</td>
-    </tr>
-    <tr  style="color:#fff">
-      <td>200910</td>
-      <td>DSAC 데이터사이언티스 자격 2급</td>
-      <td>한국생산성본부</td>
-    </tr>
-    <tr  style="color:#fff">
-      <td>200619</td>
-      <td>Microsoft Office Specialist 2016 Master</td>
-      <td>Microsoft</td>
-    </tr>
-    <tr  style="color:#fff">
-      <td>200331</td>
-      <td>GTQ그래픽기술자격 1급</td>
-      <td>한국생산성본부</td>
-    </tr>
-    <tr  style="color:#fff">
-      <td>191227</td>
-      <td>컴퓨터그래픽스운용기능사</td>
-      <td>한국산업인력공단</td>
-    </tr>
-    <tr  style="color:#fff">
-      <td>190920</td>
-      <td>웹디자인기능사</td>
-      <td>한국산업인력공단</td>
-    </tr>
-
-  </tbody>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/lux-02/Blind_Challenge">
+        <img src="https://opengraph.githubassets.com/1/lux-02/Blind_Challenge" alt="Blind Challenge" width="100%" />
+      </a>
+      <h3>Blind Challenge</h3>
+      <p>네이버 블로그 OSINT 기반 스피어피싱 사전 예방 솔루션. 소유권 인증 + 무저장 아키텍처로 Privacy-by-Design 구현.</p>
+      <p><b>Impact:</b> 데이터유니버스 x 데이콘 피싱·스캠 예방 대회 최종 1위(대상), 1인 개발</p>
+      <p><b>Stack:</b> Next.js, TypeScript, OpenAI, React Flow</p>
+      <p>
+        <a href="https://github.com/lux-02/Blind_Challenge">Repo</a> |
+        <a href="https://www.asiae.co.kr/article/2026022715182359896">News</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/CMC-EPI-LOG/EPI-LOG-MAIN">
+        <img src="https://opengraph.githubassets.com/1/CMC-EPI-LOG/EPI-LOG-MAIN" alt="AI-Soom" width="100%" />
+      </a>
+      <h3>AI-Soom (EPI-LOG)</h3>
+      <p>대기질 + 사용자 프로필 기반 아동 활동 가이드. Web PWA + AI API 분리 운영.</p>
+      <p><b>Impact:</b> Web/AI 2개 레포 분리 운영 + Apps in Toss 미니앱 포함 멀티채널 배포</p>
+      <p><b>Stack:</b> Next.js, FastAPI, MongoDB Atlas Vector Search, Voyage AI, OpenAI</p>
+      <p>
+        <a href="https://ai-soom.site">Service</a> |
+        <a href="https://github.com/CMC-EPI-LOG/EPI-LOG-MAIN">Web Repo</a> |
+        <a href="https://github.com/CMC-EPI-LOG/EPI-LOG-AI">AI Repo</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/lux-02/jeju_test">
+        <img src="https://opengraph.githubassets.com/1/lux-02/jeju_test" alt="Jeju Travel Type Test" width="100%" />
+      </a>
+      <h3>제주맹글이 (Jeju Travel Type Test)</h3>
+      <p>9문항 밸런스 게임 기반 여행 성향 분석 + AI 맞춤 코스 추천 서비스.</p>
+      <p><b>Impact:</b> 12박 13일 L.E.A.P 런케이션 프로젝트 결과물, 언론 보도 연계</p>
+      <p><b>Stack:</b> Next.js, TypeScript, Supabase, OpenAI API</p>
+      <p>
+        <a href="https://github.com/lux-02/jeju_test">Repo</a> |
+        <a href="https://www.xn--bj0b10u3zketa68a.site/">Service</a> |
+        <a href="https://www.jejusori.net/news/articleView.html?idxno=438290">News</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/lux-02/spam_analyzer_web">
+        <img src="https://opengraph.githubassets.com/1/lux-02/spam_analyzer_web" alt="Naver Mail Analyzer" width="100%" />
+      </a>
+      <h3>Naver Mail Analyzer</h3>
+      <p>SPF/DKIM/DMARC + LLM 기반 이메일 위협 분석 플랫폼 (웹앱/확장앱/MCP).</p>
+      <p><b>Impact:</b> 피싱 분석 블로그 글 1만+ 조회 기반 문제를 제품으로 전환, 웹앱+확장앱 동시 제공</p>
+      <p><b>Stack:</b> React, FastAPI, Gemini</p>
+      <p>
+        <a href="https://github.com/lux-02/spam_analyzer_web">Repo</a> |
+        <a href="https://naver.darkwinterlab.com/">Service</a>
+      </p>
+    </td>
+  </tr>
 </table>
-</br>
-</br>
-</br>
-<img src='./img/logo2.png'>
+
+## Awards & Recognition
+
+- 2026.02: 피싱·스캠 예방 서비스 개발 경진대회 **대상(1위)**
+- 2025.12: 부산지역인재 장학금 (IT 분야)
+- 2025.11: **AI TOP 100 Finalist**
+- 2024.12: 2024 한이음 ICT 멘토링 공모전 **은상**
+- 2024-2025: NAVER PER 명예의 전당 연속 등재
+
+## Training & Programs
+
+- **NAVER AI Rush 2023 대학생 앰배서더 (전공 트랙)**
+- **KITRI 화이트햇 스쿨 1기 수료 (2023.09 - 2024.03)**
+- **Goorm x S2W KDT 정보보호 전문가 양성과정 2회차 수료 (2023.08 - 2024.02)**
+
+## Core Stack
+
+- **Frontend**: Next.js, React, TypeScript, Tailwind CSS, Framer Motion
+- **Backend**: Python(FastAPI), Node.js, REST API
+- **AI/LLM**: OpenAI API, Gemini, Voyage AI, Prompt Engineering, RAG
+- **Data/Infra**: MongoDB Atlas, Supabase, AWS, Vercel, GitHub Actions
+- **Security**: Threat Modeling, OSINT, Web/App 취약점 분석, 정적 분석 도구 개발
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/lux00](https://www.linkedin.com/in/lux00/)
+- GitHub: [github.com/lux-02](https://github.com/lux-02)
+- Email: `Darkwinterlab@gmail.com`
+
+<br/>
+
+<div align="center">
+  <img src="./img/logo2.png" alt="logo" width="360" />
 </div>
