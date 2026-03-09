@@ -28,6 +28,7 @@
 기획부터 FE/BE 개발, 배포, 운영 자동화까지 end-to-end delivery를 수행합니다.
 
 - 2026.02 데이콘 x 데이터유니버스 피싱·스캠 예방 대회 **대상(1위)**
+- 2026.03 1st BUG CMC Demo Day **AI-Soom 대상(1위)**
 - 2025 AI TOP 100 Finalist (3,000명 중 100인)
 - NAVER Privacy Enhancement Reward 명예의 전당 2년 연속 (2024, 2025)
 
@@ -53,9 +54,9 @@
         <img src="https://opengraph.githubassets.com/1/CMC-EPI-LOG/EPI-LOG-MAIN" alt="AI-Soom" width="100%" />
       </a>
       <h3>AI-Soom (EPI-LOG)</h3>
-      <p>대기질 + 사용자 프로필 기반 아동 활동 가이드. Web PWA + AI API 분리 운영.</p>
-      <p><b>Impact:</b> Web/AI 2개 레포 분리 운영 + Apps in Toss 미니앱 포함 멀티채널 배포</p>
-      <p><b>Stack:</b> Next.js, FastAPI, MongoDB Atlas Vector Search, Voyage AI, OpenAI</p>
+      <p>실시간 위치 기반 대기질·날씨·예보 데이터와 AI 해석을 결합해, 아이 연령/질환에 맞는 외출 가이드를 제공하는 웹앱·토스 미니앱 서비스.</p>
+      <p><b>Impact:</b> 1st BUG CMC Demo Day 대상(1위), 웹앱·토스 미니앱 실제 출시, End-to-End 리드</p>
+      <p><b>Stack:</b> Next.js, TypeScript, FastAPI, OpenAI, RAG, Toss Mini App</p>
       <p>
         <a href="https://ai-soom.site">Service</a> |
         <a href="https://github.com/CMC-EPI-LOG/EPI-LOG-MAIN">Web Repo</a> |
@@ -96,6 +97,7 @@
 
 ## Awards & Recognition
 
+- 2026.03: 1st BUG CMC Demo Day **대상(1위)** - AI-Soom
 - 2026.02: 피싱·스캠 예방 서비스 개발 경진대회 **대상(1위)**
 - 2025.12: 부산지역인재 장학금 (IT 분야)
 - 2025.11: **AI TOP 100 Finalist**
