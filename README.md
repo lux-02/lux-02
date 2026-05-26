@@ -80,15 +80,15 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/lux00/ClickJeon">
-        <img src="https://socialify.git.ci/lux00/ClickJeon/image?description=1&font=Raleway&language=1&name=1&theme=Dark" alt="ClickJeon" width="100%" />
+      <a href="https://github.com/lux-02/ClickJeon">
+        <img src="https://socialify.git.ci/lux-02/ClickJeon/image?description=1&font=Raleway&language=1&name=1&theme=Dark" alt="ClickJeon" width="100%" />
       </a>
       <h3>🛡️ 클릭전 (ClickJeon)</h3>
       <p>구글 검색 결과에서 버튼 하나로 AI가 각 링크를 5단계 위험 등급으로 분석. WARNING·DANGER는 블러 처리 + 클릭 차단. SEO 포이즈닝 실제 사례(카카오톡 위장, Winos4.0 C2 백도어) 기반 설계.</p>
       <p><b>📦 Chrome 웹스토어 심사 신청(2026.05) · 오픈소스 공개</b></p>
       <p><code>Chrome Extension MV3</code> <code>FastAPI</code> <code>GPT</code> <code>Upstash Redis</code></p>
       <p>
-        <a href="https://github.com/lux00/ClickJeon">Repo</a> ·
+        <a href="https://github.com/lux-02/ClickJeon">Repo</a> ·
         <a href="https://clickjeon.n2f.site">Service</a>
       </p>
     </td>
