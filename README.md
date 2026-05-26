@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./img/logo2.png" alt="N2F logo" width="80" />
+<img src="./img/logo2.png" alt="N2F logo" width="200" />
 
 # OH Yoonseok (오윤석)
 
