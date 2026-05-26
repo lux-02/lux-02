@@ -81,7 +81,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/lux00/ClickJeon">
-        <img src="./img/clickjeon_banner.svg" alt="ClickJeon" width="100%" />
+        <img src="https://socialify.git.ci/lux00/ClickJeon/image?description=1&font=Raleway&language=1&name=1&theme=Dark" alt="ClickJeon" width="100%" />
       </a>
       <h3>🛡️ 클릭전 (ClickJeon)</h3>
       <p>구글 검색 결과에서 버튼 하나로 AI가 각 링크를 5단계 위험 등급으로 분석. WARNING·DANGER는 블러 처리 + 클릭 차단. SEO 포이즈닝 실제 사례(카카오톡 위장, Winos4.0 C2 백도어) 기반 설계.</p>
