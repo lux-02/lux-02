@@ -85,11 +85,13 @@
       </a>
       <h3>🛡️ 클릭전 (ClickJeon)</h3>
       <p>구글 검색 결과에서 버튼 하나로 AI가 각 링크를 5단계 위험 등급으로 분석. WARNING·DANGER는 블러 처리 + 클릭 차단. SEO 포이즈닝 실제 사례(카카오톡 위장, Winos4.0 C2 백도어) 기반 설계.</p>
-      <p><b>📦 Chrome 웹스토어 심사 신청(2026.05) · 오픈소스 공개</b></p>
+      <p><b>📦 Chrome 웹스토어 + 네이버 웨일 스토어 등록 완료(2026.05) · 오픈소스 공개</b></p>
       <p><code>Chrome Extension MV3</code> <code>FastAPI</code> <code>GPT</code> <code>Upstash Redis</code></p>
       <p>
         <a href="https://github.com/lux-02/ClickJeon">Repo</a> ·
-        <a href="https://clickjeon.n2f.site">Service</a>
+        <a href="https://clickjeon.n2f.site">Service</a> ·
+        <a href="https://chromewebstore.google.com/detail/inopiebmhgffoijdijpimkbmkicbeejh">Chrome</a> ·
+        <a href="https://store.whale.naver.com/detail/nhpnnlhomdaheccmmcoikdmaacicmbbj">Whale</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -149,7 +151,7 @@
 | [matzip.n2f.site](https://matzip.n2f.site) | 저장 맛집 리스트 기반 오늘 갈 곳 AI 추천 |
 | [strudel.n2f.site](https://strudel.n2f.site) | 이미지 → 색·감정 분석 → Strudel 코드 + 라이브 비주얼라이저 |
 | [ufo.n2f.site](https://ufo.n2f.site) | FBI UFO 극비 문서 1,616p 한국어 아카이브 (8단계 OCR 파이프라인) |
-| [clickjeon.n2f.site](https://clickjeon.n2f.site) | SEO 포이즈닝·피싱 실시간 차단 Chrome Extension |
+| [clickjeon.n2f.site](https://clickjeon.n2f.site) | SEO 포이즈닝·피싱 실시간 차단 Chrome·웨일 확장 ([Chrome](https://chromewebstore.google.com/detail/inopiebmhgffoijdijpimkbmkicbeejh) · [Whale](https://store.whale.naver.com/detail/nhpnnlhomdaheccmmcoikdmaacicmbbj)) |
 
 ---
 
