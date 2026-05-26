@@ -51,7 +51,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/lux-02/Blind_Challenge">
-        <img src="https://opengraph.githubassets.com/1/lux-02/Blind_Challenge" alt="Blind Challenge" width="100%" />
+        <img src="https://socialify.git.ci/lux-02/Blind_Challenge/image?description=1&font=Raleway&language=1&name=1&theme=Dark" alt="Blind Challenge" width="100%" />
       </a>
       <h3>🔍 Blind Challenge</h3>
       <p>OSINT 기반 피싱 사전 차단 서비스. 네이버 블로그 소유권 인증 + LLM·Rule-based 하이브리드 민감 정보 탐지 + Privacy-by-Design(무저장) 아키텍처.</p>
@@ -65,7 +65,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/CMC-EPI-LOG/EPI-LOG-MAIN">
-        <img src="https://opengraph.githubassets.com/1/CMC-EPI-LOG/EPI-LOG-MAIN" alt="AI-Soom" width="100%" />
+        <img src="https://socialify.git.ci/CMC-EPI-LOG/EPI-LOG-MAIN/image?description=1&font=Raleway&language=1&name=1&theme=Dark" alt="AI-Soom" width="100%" />
       </a>
       <h3>🌬️ AI-Soom (EPI-LOG)</h3>
       <p>실시간 위치 기반 대기질·날씨 데이터를 아이 연령·질환에 맞는 외출 행동 가이드로 변환하는 AI 서비스. 웹앱 + 토스 미니앱 동시 출시.</p>
@@ -81,7 +81,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/lux00/ClickJeon">
-        <img src="https://opengraph.githubassets.com/1/lux00/ClickJeon" alt="ClickJeon" width="100%" />
+        <img src="./img/clickjeon_banner.svg" alt="ClickJeon" width="100%" />
       </a>
       <h3>🛡️ 클릭전 (ClickJeon)</h3>
       <p>구글 검색 결과에서 버튼 하나로 AI가 각 링크를 5단계 위험 등급으로 분석. WARNING·DANGER는 블러 처리 + 클릭 차단. SEO 포이즈닝 실제 사례(카카오톡 위장, Winos4.0 C2 백도어) 기반 설계.</p>
@@ -94,7 +94,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/lux-02/korean-ux-copy">
-        <img src="https://opengraph.githubassets.com/1/lux-02/korean-ux-copy" alt="Korean UX Copy" width="100%" />
+        <img src="https://socialify.git.ci/lux-02/korean-ux-copy/image?description=1&font=Raleway&language=1&name=1&theme=Dark" alt="Korean UX Copy" width="100%" />
       </a>
       <h3>✍️ Korean UX Copy</h3>
       <p>AI로 만든 앱의 어색한 한국어 UX 문구를 진단·수정하는 Claude Code + Codex 플러그인. 15개 규칙(KA-100~KA-152)으로 진단하고 Kanana를 정제 레이어로 활용. GPT 생성 SaaS 카피 5종 E2E 검증: 55개 중 40개(73%) 감지.</p>
@@ -108,7 +108,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/lux-02/spam_analyzer_web">
-        <img src="https://opengraph.githubassets.com/1/lux-02/spam_analyzer_web" alt="Naver Mail Analyzer" width="100%" />
+        <img src="https://socialify.git.ci/lux-02/spam_analyzer_web/image?description=1&font=Raleway&language=1&name=1&theme=Dark" alt="Naver Mail Analyzer" width="100%" />
       </a>
       <h3>📧 Naver Mail Analyzer</h3>
       <p>SPF/DKIM/DMARC 이메일 인증 검증 + LLM 기반 본문 긴급성·스타일 분석 + VirusTotal 악성 URL 조회. 크롬 확장 + 웨일 브라우저 확장 + 웹앱 동시 제공.</p>
@@ -120,7 +120,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/lux-02/ai-contest.cloud">
-        <img src="https://opengraph.githubassets.com/1/lux-02/ai-contest.cloud" alt="AI Contest Cloud" width="100%" />
+        <img src="https://socialify.git.ci/lux-02/ai-contest.cloud/image?description=1&font=Raleway&language=1&name=1&theme=Dark" alt="AI Contest Cloud" width="100%" />
       </a>
       <h3>🏅 AI Contest Cloud</h3>
       <p>한국 대학생·취준생을 위한 AI 공모전 탐색 + 전략 분석 + 팀 시뮬레이션 플랫폼. Circuit breaker·dedup·retry·SSE 기반 프로덕션 수준 아키텍처.</p>
