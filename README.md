@@ -114,10 +114,13 @@
       </a>
       <h3>📧 Naver Mail Analyzer</h3>
       <p>SPF/DKIM/DMARC 이메일 인증 검증 + LLM 기반 본문 긴급성·스타일 분석 + VirusTotal 악성 URL 조회. 크롬 확장 + 웨일 브라우저 확장 + 웹앱 동시 제공.</p>
+      <p><b>📦 Chrome 웹스토어 + 네이버 웨일 스토어 등록 완료</b></p>
       <p><code>React</code> <code>FastAPI</code> <code>Gemini</code></p>
       <p>
         <a href="https://github.com/lux-02/spam_analyzer_web">Repo</a> ·
-        <a href="https://mail.n2f.site">Service</a>
+        <a href="https://mail.n2f.site">Service</a> ·
+        <a href="https://chromewebstore.google.com/detail/naver-mail-analyzer/egiihcmplomfonhicnabpifjpgkhcimi">Chrome</a> ·
+        <a href="https://store.whale.naver.com/detail/iifpjpbmgopecnfibfnakgobibghhien">Whale</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -147,7 +150,7 @@
 | [naegyeot.n2f.site](https://naegyeot.n2f.site) | Memory-first AI 소울메이트 — raw transcript 비저장 + compact memory 구조 |
 | [kanana.n2f.site](https://kanana.n2f.site) | Kakao Kanana · GPT · Gemini · Claude 멀티 LLM 비교 실험 도구 |
 | [wiki.n2f.site](https://wiki.n2f.site) | N2F Wiki — Ontology Knowledge Graph 기반 크리에이터 이해·탐색 AI 플랫폼 (**2026 AI Champion 본선 진출**) |
-| [mail.n2f.site](https://mail.n2f.site) | 네이버 메일 스팸 탐지 — SPF/DKIM/DMARC + LLM 분석 |
+| [mail.n2f.site](https://mail.n2f.site) | 네이버 메일 스팸 탐지 — SPF/DKIM/DMARC + LLM 분석 ([Chrome](https://chromewebstore.google.com/detail/naver-mail-analyzer/egiihcmplomfonhicnabpifjpgkhcimi) · [Whale](https://store.whale.naver.com/detail/iifpjpbmgopecnfibfnakgobibghhien)) |
 | [matzip.n2f.site](https://matzip.n2f.site) | 저장 맛집 리스트 기반 오늘 갈 곳 AI 추천 |
 | [strudel.n2f.site](https://strudel.n2f.site) | 이미지 → 색·감정 분석 → Strudel 코드 + 라이브 비주얼라이저 |
 | [ufo.n2f.site](https://ufo.n2f.site) | FBI UFO 극비 문서 1,616p 한국어 아카이브 (8단계 OCR 파이프라인) |
