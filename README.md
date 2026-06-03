@@ -12,6 +12,7 @@
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/OpenAI_Build_Award-1위_$25,000-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Kakao_AI_Ambassador-Kanana_429-FFCD00?style=flat-square&logo=kakao&logoColor=black" />
   <img src="https://img.shields.io/badge/과기부-AI_경진대회_홍보대사-003087?style=flat-square" />
   <img src="https://img.shields.io/badge/NAVER_PER-명예의전당_2년연속-03C75A?style=flat-square&logo=naver&logoColor=white" />
@@ -39,9 +40,10 @@
 
 | | |
 |---|---|
-| 🏆 피싱·스캠 예방 경진대회 **대상(1위)** — 경찰청장 감사장 | 🏆 CMC Demo Day **AI-Soom 대상(1위)** |
-| 🤖 2026 AI Champion 대회 **본선 진출** (N2F Wiki) | 🔒 NAVER PER 명예의 전당 **2년 연속** |
-| 🎖 AI TOP 100 Finalist (3,000명 중 100인) | 📦 Claude Code + Codex Plugin Marketplace 배포 |
+| 🏆 OBA Weekend-thon **메인 트랙 1위 + OpenAI Build Award 1위** ($25,000) | 🏆 피싱·스캠 예방 경진대회 **대상(1위)** — 경찰청장 감사장 |
+| 🏆 CMC Demo Day **AI-Soom 대상(1위)** | 🤖 2026 AI Champion 대회 **본선 진출** (N2F Wiki) |
+| 🔒 NAVER PER 명예의 전당 **2년 연속** | 🎖 AI TOP 100 Finalist (3,000명 중 100인) |
+| 📦 Claude Code + Codex Plugin Marketplace 배포 | 🟡 카카오 AI 앰배서더 Kanana 429 |
 
 ---
 
@@ -49,6 +51,19 @@
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <a href="https://luckymatching.n2f.site">
+        <img src="https://socialify.git.ci/lux-02/OBA_Darkwinterlab_LuckyMatching/image?description=1&font=Raleway&language=1&name=1&theme=Dark" alt="Lucky Matching" width="100%" />
+      </a>
+      <h3>🍀 Lucky Matching</h3>
+      <p>사주(오행)를 분석해 오늘 나와 맞는 국내 여행지를 추천하고, 실제 여행 상품까지 연결하는 개인화 서비스. AI가 텍스트가 아닌 지도·카드 UI를 생성(GGUI)해 답하고, Myrealtrip MCP로 실제 상품과 잇는다. 기획·풀스택·배포를 1인 end-to-end로 수행.</p>
+      <p><b>🏆 OBA Weekend-thon S1 — 메인 트랙 1위 + OpenAI Build Award 1위 ($25,000 크레딧)</b></p>
+      <p><code>Next.js</code> <code>FastAPI</code> <code>OpenAI Agents SDK</code> <code>GGUI</code> <code>MCP</code></p>
+      <p>
+        <a href="https://github.com/lux-02/OBA_Darkwinterlab_LuckyMatching">Repo</a> ·
+        <a href="https://luckymatching.n2f.site">Service</a>
+      </p>
+    </td>
     <td width="50%" valign="top">
       <a href="https://github.com/lux-02/Blind_Challenge">
         <img src="https://socialify.git.ci/lux-02/Blind_Challenge/image?description=1&font=Raleway&language=1&name=1&theme=Dark" alt="Blind Challenge" width="100%" />
@@ -63,6 +78,8 @@
         <a href="https://dacon.io/competitions/official/236666/talkboard/416456">데이콘 인터뷰</a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/CMC-EPI-LOG/EPI-LOG-MAIN">
         <img src="https://socialify.git.ci/CMC-EPI-LOG/EPI-LOG-MAIN/image?description=1&font=Raleway&language=1&name=1&theme=Dark" alt="AI-Soom" width="100%" />
@@ -77,8 +94,6 @@
         <a href="https://github.com/CMC-EPI-LOG/EPI-LOG-AI">AI Repo</a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/lux-02/ClickJeon">
         <img src="https://socialify.git.ci/lux-02/ClickJeon/image?description=1&font=Raleway&language=1&name=1&theme=Dark" alt="ClickJeon" width="100%" />
@@ -94,6 +109,8 @@
         <a href="https://store.whale.naver.com/detail/nhpnnlhomdaheccmmcoikdmaacicmbbj">Whale</a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/lux-02/korean-ux-copy">
         <img src="https://socialify.git.ci/lux-02/korean-ux-copy/image?description=1&font=Raleway&language=1&name=1&theme=Dark" alt="Korean UX Copy" width="100%" />
@@ -106,8 +123,6 @@
         <a href="https://github.com/lux-02/korean-ux-copy">Repo</a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/lux-02/spam_analyzer_web">
         <img src="https://socialify.git.ci/lux-02/spam_analyzer_web/image?description=1&font=Raleway&language=1&name=1&theme=Dark" alt="Naver Mail Analyzer" width="100%" />
@@ -123,6 +138,8 @@
         <a href="https://store.whale.naver.com/detail/iifpjpbmgopecnfibfnakgobibghhien">Whale</a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/lux-02/ai-contest.cloud">
         <img src="https://socialify.git.ci/lux-02/ai-contest.cloud/image?description=1&font=Raleway&language=1&name=1&theme=Dark" alt="AI Contest Cloud" width="100%" />
@@ -147,6 +164,7 @@
 
 | 서비스 | 설명 |
 |--------|------|
+| [luckymatching.n2f.site](https://luckymatching.n2f.site) | 사주 오행 기반 개인화 여행 추천 — GGUI 생성형 UI + Myrealtrip 연계 (**OBA Weekend-thon 1위 + OpenAI Build Award 1위 $25,000**) |
 | [naegyeot.n2f.site](https://naegyeot.n2f.site) | Memory-first AI 소울메이트 — raw transcript 비저장 + compact memory 구조 |
 | [kanana.n2f.site](https://kanana.n2f.site) | Kakao Kanana · GPT · Gemini · Claude 멀티 LLM 비교 실험 도구 |
 | [wiki.n2f.site](https://wiki.n2f.site) | N2F Wiki — Ontology Knowledge Graph 기반 크리에이터 이해·탐색 AI 플랫폼 (**2026 AI Champion 본선 진출**) |
@@ -162,6 +180,7 @@
 
 | 연도 | 수상 |
 |------|------|
+| 2026.05 | 🥇 OBA Weekend-thon S1 **메인 트랙 1위 + OpenAI Build Award 1위** ($25,000 크레딧) — Lucky Matching |
 | 2026.03 | 🥇 1st BUG CMC Demo Day **대상(1위)** — AI-Soom |
 | 2026.02 | 🥇 피싱·스캠 예방 서비스 개발 경진대회 **대상(1위)** + 경찰청장 감사장 (647명 중 1위) |
 | 2025.11 | 🎖 **AI TOP 100 Finalist** — 카카오임팩트 × 브라이언임팩트 (3,000명 중 100인) |
