@@ -52,7 +52,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://luckymatching.n2f.site">
+      <a href="https://luckymatching.n2f.site/?utm_source=github&utm_medium=readme&utm_campaign=oba_award">
         <img src="https://socialify.git.ci/lux-02/OBA_Darkwinterlab_LuckyMatching/image?description=1&font=Raleway&language=1&name=1&theme=Dark" alt="Lucky Matching" width="100%" />
       </a>
       <h3>🍀 Lucky Matching</h3>
@@ -61,7 +61,7 @@
       <p><code>Next.js</code> <code>FastAPI</code> <code>OpenAI Agents SDK</code> <code>GGUI</code> <code>MCP</code></p>
       <p>
         <a href="https://github.com/lux-02/OBA_Darkwinterlab_LuckyMatching">Repo</a> ·
-        <a href="https://luckymatching.n2f.site">Service</a>
+        <a href="https://luckymatching.n2f.site/?utm_source=github&utm_medium=readme&utm_campaign=oba_award">Service</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -164,7 +164,7 @@
 
 | 서비스 | 설명 |
 |--------|------|
-| [luckymatching.n2f.site](https://luckymatching.n2f.site) | 사주 오행 기반 개인화 여행 추천 — GGUI 생성형 UI + Myrealtrip 연계 (**OBA Weekend-thon 메인 트랙 OpenAI Build Award 1위 $25,000**) |
+| [luckymatching.n2f.site](https://luckymatching.n2f.site/?utm_source=github&utm_medium=readme&utm_campaign=oba_award) | 사주 오행 기반 개인화 여행 추천 — GGUI 생성형 UI + Myrealtrip 연계 (**OBA Weekend-thon 메인 트랙 OpenAI Build Award 1위 $25,000**) |
 | [naegyeot.n2f.site](https://naegyeot.n2f.site) | Memory-first AI 소울메이트 — raw transcript 비저장 + compact memory 구조 |
 | [kanana.n2f.site](https://kanana.n2f.site) | Kakao Kanana · GPT · Gemini · Claude 멀티 LLM 비교 실험 도구 |
 | [wiki.n2f.site](https://wiki.n2f.site) | N2F Wiki — Ontology Knowledge Graph 기반 크리에이터 이해·탐색 AI 플랫폼 (**2026 AI Champion 본선 진출**) |
