@@ -152,6 +152,18 @@
         <a href="https://www.ai-contest.cloud">Service</a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <a href="https://bongyeol.n2f.site/?utm_source=github&utm_medium=readme&utm_campaign=week08">
+        <img src="https://bongyeol.n2f.site/api/og" alt="본결 Bongyeol" width="100%" />
+      </a>
+      <h3>🧬 본결 (Bongyeol)</h3>
+      <p>공개 Cloninger 7차원 이론 기반의 무료 기질·성격 자가이해 검사. 가입 없이 5분, 7차원 결과 + AI가 1:1 상담하듯 써 주는 상세 리포트. 자체 문항·12 아키타입·브랜딩·SEO/GEO·퍼널 분석까지 1인 end-to-end. 공식 검사와 무관한 독립 도구·비진단 포지셔닝.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>OpenAI</code> <code>Vercel</code></p>
+      <p>
+        <a href="https://bongyeol.n2f.site/?utm_source=github&utm_medium=readme&utm_campaign=week08">Service</a> ·
+        <a href="https://bongyeol.n2f.site/guide">Guide</a>
+      </p>
+    </td>
   </tr>
 </table>
 
@@ -165,6 +177,7 @@
 | 서비스 | 설명 |
 |--------|------|
 | [luckymatching.n2f.site](https://luckymatching.n2f.site/?utm_source=github&utm_medium=readme&utm_campaign=oba_award) | 사주 오행 기반 개인화 여행 추천 — GGUI 생성형 UI + Myrealtrip 연계 (**OBA Weekend-thon 메인 트랙 OpenAI Build Award 1위 $25,000**) |
+| [bongyeol.n2f.site](https://bongyeol.n2f.site/?utm_source=github&utm_medium=readme&utm_campaign=week08) | 7가지 차원으로 보는 무료 기질·성격 검사 + AI 상세 리포트 — 공개 학술 이론 기반 독립 도구·비진단 |
 | [naegyeot.n2f.site](https://naegyeot.n2f.site) | Memory-first AI 소울메이트 — raw transcript 비저장 + compact memory 구조 |
 | [kanana.n2f.site](https://kanana.n2f.site) | Kakao Kanana · GPT · Gemini · Claude 멀티 LLM 비교 실험 도구 |
 | [wiki.n2f.site](https://wiki.n2f.site) | N2F Wiki — Ontology Knowledge Graph 기반 크리에이터 이해·탐색 AI 플랫폼 (**2026 AI Champion 본선 진출**) |
