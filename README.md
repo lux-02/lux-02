@@ -165,6 +165,20 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://nara.n2f.site/">
+        <img src="https://socialify.git.ci/lux-02/narasarang/image?description=1&font=Raleway&language=1&name=1&theme=Dark" alt="예우 지도 narasarang" width="100%" />
+      </a>
+      <h3>🗺️ 예우 지도 (narasarang)</h3>
+      <p>병무청 나라사랑가게 공개데이터 2,600여 곳을 지역·업종·대상·혜택으로 탐색하는 시민 프로젝트. 픽셀 지도, 예우 밀도/평균 할인율 토글, 내 주변 찾기, AI 예우 비서의 자연어 지도 제어까지 결합했다.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>d3-geo</code> <code>OpenAI</code> <code>Public Data</code></p>
+      <p>
+        <a href="https://github.com/lux-02/narasarang">Repo</a> ·
+        <a href="https://nara.n2f.site/">Service</a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -178,6 +192,7 @@
 |--------|------|
 | [luckymatching.n2f.site](https://luckymatching.n2f.site/?utm_source=github&utm_medium=readme&utm_campaign=oba_award) | 사주 오행 기반 개인화 여행 추천 — GGUI 생성형 UI + Myrealtrip 연계 (**OBA Weekend-thon 메인 트랙 OpenAI Build Award 1위 $25,000**) |
 | [bongyeol.n2f.site](https://bongyeol.n2f.site/?utm_source=github&utm_medium=readme&utm_campaign=week08) | 7가지 차원으로 보는 무료 기질·성격 검사 + AI 상세 리포트 — 공개 학술 이론 기반 독립 도구·비진단 |
+| [nara.n2f.site](https://nara.n2f.site) | 나라사랑가게 혜택 지도 — 병무청 공개데이터 기반 병역이행자 예우 탐색 + AI 예우 비서 |
 | [naegyeot.n2f.site](https://naegyeot.n2f.site) | Memory-first AI 소울메이트 — raw transcript 비저장 + compact memory 구조 |
 | [kanana.n2f.site](https://kanana.n2f.site) | Kakao Kanana · GPT · Gemini · Claude 멀티 LLM 비교 실험 도구 |
 | [wiki.n2f.site](https://wiki.n2f.site) | N2F Wiki — Ontology Knowledge Graph 기반 크리에이터 이해·탐색 AI 플랫폼 (**2026 AI Champion 본선 진출**) |
