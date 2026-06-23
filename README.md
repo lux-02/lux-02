@@ -168,7 +168,7 @@
   <tr>
     <td colspan="2" valign="top">
       <a href="https://nara.n2f.site/">
-        <img src="https://socialify.git.ci/lux-02/narasarang/image?description=1&font=Raleway&language=1&name=1&theme=Dark" alt="예우 지도 narasarang" width="100%" />
+        <img src="./img/narasarang.png" alt="예우 지도 narasarang" width="100%" />
       </a>
       <h3>🗺️ 예우 지도 (narasarang)</h3>
       <p>병무청 나라사랑가게 공개데이터 2,600여 곳을 지역·업종·대상·혜택으로 탐색하는 시민 프로젝트. 픽셀 지도, 예우 밀도/평균 할인율 토글, 내 주변 찾기, AI 예우 비서의 자연어 지도 제어까지 결합했다.</p>
