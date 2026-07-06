@@ -167,6 +167,22 @@
   </tr>
   <tr>
     <td colspan="2" valign="top">
+      <a href="https://d4d.n2f.site">
+        <img src="https://socialify.git.ci/D4D-51E/Open-Intelligence-Layer/image?description=1&font=Raleway&language=1&name=1&theme=Dark" alt="Open Intelligence Layer" width="100%" />
+      </a>
+      <h3>🛰️ Open Intelligence Layer</h3>
+      <p>공개 항공(ADS-B)·선박(AIS)·위성(TLE)·텔레그램 OSINT를 실시간 3D 지구본에 융합하고, 텔레그램 타격 주장에 <b>verdict + 신뢰도 + 근거 원장</b>을 판정하는 방어적 상황인식 플랫폼. 집계(aggregation)가 아니라 NASA FIRMS 열데이터·교차출처로 검증하는 <b>판정(adjudication)</b>이 핵심. 공군 항공통제(C2) 운용 경험 × OSINT 빌더. 19개 공개소스 · SGP4 브라우저 궤도 전파 · 텔레그램 봇 · 비표적화.</p>
+      <p><b>🛡️ D4D Deploy for Defense Hackathon (APAC · Seoul) — Battle Network &amp; C2 트랙 · 라이브 배포 · 오픈소스</b></p>
+      <p><code>React</code> <code>MapLibre 3D</code> <code>SGP4</code> <code>Vercel Functions</code> <code>Postgres</code> <code>OpenAI</code></p>
+      <p>
+        <a href="https://github.com/D4D-51E/Open-Intelligence-Layer">Repo</a> ·
+        <a href="https://d4d.n2f.site">Live Demo</a> ·
+        <a href="https://github.com/D4D-51E/Open-Intelligence-Layer/blob/main/docs/README.ko.md">한국어</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <a href="https://nara.n2f.site/">
         <img src="./img/narasarang.png" alt="예우 지도 narasarang" width="100%" />
       </a>
@@ -196,6 +212,7 @@
 | [naegyeot.n2f.site](https://naegyeot.n2f.site) | Memory-first AI 소울메이트 — raw transcript 비저장 + compact memory 구조 |
 | [kanana.n2f.site](https://kanana.n2f.site) | Kakao Kanana · GPT · Gemini · Claude 멀티 LLM 비교 실험 도구 |
 | [wiki.n2f.site](https://wiki.n2f.site) | N2F Wiki — Ontology Knowledge Graph 기반 크리에이터 이해·탐색 AI 플랫폼 (**2026 AI Champion 본선 진출**) |
+| [d4d.n2f.site](https://d4d.n2f.site) | Open Intelligence Layer — 공개 OSINT(ADS-B·AIS·위성·텔레그램) 실시간 융합·판정 상황인식 · **D4D 국방 해커톤 · 오픈소스** ([Repo](https://github.com/D4D-51E/Open-Intelligence-Layer)) |
 | [mail.n2f.site](https://mail.n2f.site) | 네이버 메일 스팸 탐지 — SPF/DKIM/DMARC + LLM 분석 ([Chrome](https://chromewebstore.google.com/detail/naver-mail-analyzer/egiihcmplomfonhicnabpifjpgkhcimi) · [Whale](https://store.whale.naver.com/detail/iifpjpbmgopecnfibfnakgobibghhien)) |
 | [matzip.n2f.site](https://matzip.n2f.site) | 저장 맛집 리스트 기반 오늘 갈 곳 AI 추천 |
 | [strudel.n2f.site](https://strudel.n2f.site) | 이미지 → 색·감정 분석 → Strudel 코드 + 라이브 비주얼라이저 |
