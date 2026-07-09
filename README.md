@@ -182,7 +182,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <a href="https://nara.n2f.site/">
         <img src="./img/narasarang.png" alt="예우 지도 narasarang" width="100%" />
       </a>
@@ -192,6 +192,18 @@
       <p>
         <a href="https://github.com/lux-02/narasarang">Repo</a> ·
         <a href="https://nara.n2f.site/">Service</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://train.n2f.site/">
+        <img src="https://train.n2f.site/og.png" alt="기차타고 어디가지?" width="100%" />
+      </a>
+      <h3>🚄 기차타고 어디가지? (Train Trip Finder)</h3>
+      <p>출발역만 고르면 기차로 갈 수 있는 전국 여행지를 소요시간·운임·열차종·환승까지 한눈에. 코레일 운행정보로 269개 역 그래프를 세우고, 각도=방위·반경=소요시간의 방사형 시간 지도로 그린다. MCP 서버와 웹 AI 탐색이 하나의 코어 로직을 공유한다.</p>
+      <p><code>Vanilla JS</code> <code>Vercel Functions</code> <code>MCP SDK</code> <code>OpenAI</code> <code>Leaflet</code> <code>Public Data</code></p>
+      <p>
+        <a href="https://github.com/lux-02/Train">Repo</a> ·
+        <a href="https://train.n2f.site/">Service</a>
       </p>
     </td>
   </tr>
@@ -209,6 +221,7 @@
 | [luckymatching.n2f.site](https://luckymatching.n2f.site/?utm_source=github&utm_medium=readme&utm_campaign=oba_award) | 사주 오행 기반 개인화 여행 추천 — GGUI 생성형 UI + Myrealtrip 연계 (**OBA Weekend-thon 메인 트랙 OpenAI Build Award 1위 $25,000**) |
 | [bongyeol.n2f.site](https://bongyeol.n2f.site/?utm_source=github&utm_medium=readme&utm_campaign=week08) | 7가지 차원으로 보는 무료 기질·성격 검사 + AI 상세 리포트 — 공개 학술 이론 기반 독립 도구·비진단 |
 | [nara.n2f.site](https://nara.n2f.site) | 나라사랑가게 혜택 지도 — 병무청 공개데이터 기반 병역이행자 예우 탐색 + AI 예우 비서 |
+| [train.n2f.site](https://train.n2f.site) | 기차타고 어디가지? — 출발역 기준 철도 여행지 탐색, 방사형 시간 지도 + MCP 서버·웹 AI 공유 코어 |
 | [naegyeot.n2f.site](https://naegyeot.n2f.site) | Memory-first AI 소울메이트 — raw transcript 비저장 + compact memory 구조 |
 | [kanana.n2f.site](https://kanana.n2f.site) | Kakao Kanana · GPT · Gemini · Claude 멀티 LLM 비교 실험 도구 |
 | [wiki.n2f.site](https://wiki.n2f.site) | N2F Wiki — Ontology Knowledge Graph 기반 크리에이터 이해·탐색 AI 플랫폼 (**2026 AI Champion 본선 진출**) |
