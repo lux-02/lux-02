@@ -207,6 +207,20 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://shipicon.n2f.site/?utm_source=github&utm_medium=readme&utm_campaign=week11">
+        <img src="https://shipicon.n2f.site/opengraph-image" alt="ShipIcon — AI 앱 아이콘 생성기" width="100%" />
+      </a>
+      <h3>🚀 ShipIcon</h3>
+      <p>서비스 설명 한 줄을 브랜드 방향과 목적이 다른 AI 앱 아이콘 시안 4개로 번역하는 제작 도구. 시안을 비교해 고른 뒤 단순화·입체감·컬러·여백·디테일을 다듬고, 16–1024px PNG와 앱인토스 에셋·컬러 토큰·미니 브랜드 가이드를 하나의 ZIP으로 내보낸다.</p>
+      <p><b>💡 아이디어 입력 → 브랜드 해석 → 시안 비교 → 부분 수정 → 출시용 내보내기를 하나의 5단계 워크플로우로 제품화</b></p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>OpenAI GPT Image</code> <code>Sharp</code> <code>Apps in Toss</code></p>
+      <p>
+        <a href="https://shipicon.n2f.site/?utm_source=github&utm_medium=readme&utm_campaign=week11">Service</a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -218,6 +232,7 @@
 
 | 서비스 | 설명 |
 |--------|------|
+| [shipicon.n2f.site](https://shipicon.n2f.site/?utm_source=github&utm_medium=readme&utm_campaign=week11) | 서비스 설명 한 줄 → AI 앱 아이콘 시안 4개 → 부분 수정 → 16–1024px PNG·앱인토스 에셋·컬러 토큰·미니 브랜드 가이드 내보내기 |
 | [luckymatching.n2f.site](https://luckymatching.n2f.site/?utm_source=github&utm_medium=readme&utm_campaign=oba_award) | 사주 오행 기반 개인화 여행 추천 — GGUI 생성형 UI + Myrealtrip 연계 (**OBA Weekend-thon 메인 트랙 OpenAI Build Award 1위 $25,000**) |
 | [bongyeol.n2f.site](https://bongyeol.n2f.site/?utm_source=github&utm_medium=readme&utm_campaign=week08) | 7가지 차원으로 보는 무료 기질·성격 검사 + AI 상세 리포트 — 공개 학술 이론 기반 독립 도구·비진단 |
 | [nara.n2f.site](https://nara.n2f.site) | 나라사랑가게 혜택 지도 — 병무청 공개데이터 기반 병역이행자 예우 탐색 + AI 예우 비서 |
